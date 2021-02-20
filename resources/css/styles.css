@@ -1,3 +1,31 @@
 body {
   background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.subtitle {
+  color: gray;
+  font-size: 21px;
+}
+
+.header__title {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+a {
+  color: aquamarine;
+  font-style: 16px;
+}
+
+.copyright {
+  color: gray;
+  text-align: right;
 }
